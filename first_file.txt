@@ -1,6 +1,5 @@
-DevOps is a modern software development methodology that combines Development and Operations to streamline the software delivery lifecycle. It emphasizes collaboration, automation, and continuous improvement to deliver high-quality software faster and more reliably.
+Linux is a free and open-source operating system that was developed by Linus Torvalds in 1991. It is based on the Linux kernel, which is the core component that manages the system's hardware and resources, such as CPU, memory, and storage. The Linux kernel acts as a bridge between applications and hardware, ensuring that everything works smoothly and efficiently.
 
-Key Principles and Goals
+Key Principles
 
-DevOps focuses on breaking down silos between development and operations teams, fostering a culture of collaboration. Its primary goals include faster software releases, automation of repetitive tasks, continuous integration and delivery (CI/CD), and robust monitoring to ensure system reliability.
-This is last line of Devops
+Linux is known for its flexibility, security, and stability. It is used in a wide range of devices, from personal computers and servers to smartphones and supercomputers. One of the main advantages of Linux is that it is open-source, meaning that its source code is freely available for anyone to view, modify, and distribute. This openness encourages collaboration and continuous improvement by developers and enthusiasts worldwide.
