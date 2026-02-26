@@ -3,3 +3,4 @@ DevOps is a modern software development methodology that combines Development an
 Key Principles and Goals
 
 DevOps focuses on breaking down silos between development and operations teams, fostering a culture of collaboration. Its primary goals include faster software releases, automation of repetitive tasks, continuous integration and delivery (CI/CD), and robust monitoring to ensure system reliability.
+This is last line of Devops
