@@ -1,5 +1,0 @@
-Linux is a free and open-source operating system that was developed by Linus Torvalds in 1991. It is based on the Linux kernel, which is the core component that manages the system's hardware and resources, such as CPU, memory, and storage. The Linux kernel acts as a bridge between applications and hardware, ensuring that everything works smoothly and efficiently.
-
-Key Principles
-
-Linux is known for its flexibility, security, and stability. It is used in a wide range of devices, from personal computers and servers to smartphones and supercomputers. One of the main advantages of Linux is that it is open-source, meaning that its source code is freely available for anyone to view, modify, and distribute. This openness encourages collaboration and continuous improvement by developers and enthusiasts worldwide.
